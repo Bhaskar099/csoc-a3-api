@@ -15,7 +15,7 @@ const project = [
     "confirmed_moons":0,
     "rotations_period":"58.65 days",
     "atmosphere":"minimal",
-    "description":"mercury data"
+    "description":"Mercury is the smallest planet in our solar system. It's a little bigger than Earth's Moon. It is the closest planet to the Sun, but it's actually not the hottest. Venus is hotter. ISR0 is planning for its future missions on Mercury."
   },
   
   {
@@ -25,7 +25,7 @@ const project = [
     "confirmed_moons":0,
     "rotations_period":"243.02 days",
     "atmosphere":"CO2,N2",
-    "description":"venus data"
+    "description":"Venus is the second planet from the Sun and is Earth's closest planetary neighbor. The Indian Venus orbiter mission(Shukrayaan-1 , Date:December 2024) is a planned orbiter to Venus by ISRO to study the atmosphere of Venus."
   },
   
   
@@ -36,7 +36,7 @@ const project = [
     "confirmed_moons":1,
     "rotations_period":"1.00 days",
     "atmosphere":"N2,O2,Ar",
-    "description":"earth data"
+    "description":"Just slightly larger than nearby Venus, Earth is the biggest of the four planets closest to the Sun, all of which are made of rock and metal. Earth is the only planet in the Solar System whose English name does not come from Greek or Roman mythology. The name was taken from Old English and Germanic."
   },
   
   
@@ -47,7 +47,7 @@ const project = [
     "confirmed_moons":2,
     "rotations_period":"1.03 days",
     "atmosphere":"CO2,N2,Ar",
-    "description":"mars data"
+    "description":"Mars Orbiter Mission (MOM), also called Mangalyaan, is a spacecraft orbiting Mars since 24 September 2014. It was launched on 5 November 2013 by ISRO. It is India's first interplanetary spaceflight mission and ISRO has become the fourth space agency to reach Mars."
   },
   
   
@@ -58,7 +58,7 @@ const project = [
     "confirmed_moons":95,
     "rotations_period":"0.41 days",
     "atmosphere":"H2,He",
-    "description":"jupiter data"
+    "description":"Jupiter is covered in swirling cloud stripes. It has big storms like the Great Red Spot, which has been going for hundreds of years. Jupiter is a gas giant and doesn't have a solid surface, but it may have a solid inner core about the size of Earth."
   },
   
   
@@ -69,7 +69,7 @@ const project = [
     "confirmed_moons":146,
     "rotations_period":"0.44 days",
     "atmosphere":"H2,He",
-    "description":"saturn data"
+    "description":"Saturn is the sixth planet from the Sun and the second-largest planet in our solar system. Saturn is a massive ball made mostly of hydrogen and helium. Saturn has many rings. Saturn also has dozens of moons."
   },
   
   {
@@ -79,7 +79,7 @@ const project = [
     "confirmed_moons":27,
     "rotations_period":"0.72 days",
     "atmosphere":"H2,He,CH4",
-    "description":"uranus data"
+    "description":"Uranus is one of two ice giants in the outer solar system (the other is Neptune). Most (80% or more) of the planet's mass is made up of a hot dense fluid of 'icy' materials : water, methane, and ammonia : above a small rocky core"
   },
   
   
@@ -90,7 +90,7 @@ const project = [
     "confirmed_moons":14,
     "rotations_period":"0.67 days",
     "atmosphere":"H2,He,CH4",
-    "description":"neptune data"
+    "description":"Neptune is dark, cold, and very windy. It's the last of the planets in our solar system. It's more than 30 times as far from the Sun as Earth is. Neptune is very similar to Uranus."
   },
 
 
@@ -100,7 +100,7 @@ const project = [
     "mass":"1.989x10^30 Kg",
     "rotation_period":"27 days",
     "atmosphere":"H2,He",
-    "description":"sun data"
+    "description":"Aditya-L1 (Date:2 September 2023) is the first Indian observatory class mission to study the solar corona using a solar coronagraph and also chromosphere using near UV instrument. X-ray spectroscopic instruments will provide flare spectra while the in-situ payload observes the solar events."
   },
   
   {
@@ -109,7 +109,7 @@ const project = [
     "mass":"7.348x10^22 Kg",
     "rotation_period":"27.3 days",
     "atmosphere":"H2,Ne,Ar",
-    "description":"moon data"
+    "description":"Chandrayaan 1 as India's first lunar probe. It was launched by ISRO on 22 October 2008. Chandrayaan-2 was launched from the second launch pad at Satish Dhawan Space Centre on 22 July 2019.Chandrayaan-3 was launched from the Satish Dhawan Space Centre, Sriharikota on 14 July 2023"
   }
 
 ];
