@@ -12,6 +12,7 @@ const project = [
     "id":1,
     "planet_name":"Sun",
     "mass":"1.989x10^30 Kg",
+    "confirmed_moons":0,
     "rotation_period":"27 days",
     "atmosphere":"H2,He",
     "description":"Aditya-L1 (Date:2 September 2023) is the first Indian observatory class mission to study the solar corona using a solar coronagraph and also chromosphere using near UV instrument. X-ray spectroscopic instruments will provide flare spectra while the in-situ payload observes the solar events."
@@ -54,6 +55,7 @@ const project = [
     "id":5,
     "planet_name":"Moon",
     "mass":"7.348x10^22 Kg",
+    "confirmed_moons":0,
     "rotation_period":"27.3 days",
     "atmosphere":"H2,Ne,Ar",
     "description":"Chandrayaan 1 as India's first lunar probe. It was launched by ISRO on 22 October 2008. Chandrayaan-2 was launched from the second launch pad at Satish Dhawan Space Centre on 22 July 2019.Chandrayaan-3 was launched from the Satish Dhawan Space Centre, Sriharikota on 14 July 2023"
