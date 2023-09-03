@@ -9,6 +9,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 // Define the project array before using it
 const project = [
   {
+    "id":1,
     "planet_name":"Mercury",
     "mass":"3.3x10^23 Kg",
     "confirmed_moons":0,
@@ -18,6 +19,7 @@ const project = [
   },
   
   {
+    "id":2,
     "planet_name":"Venus",
     "mass":"4.86x10^24 Kg",
     "confirmed_moons":0,
@@ -28,6 +30,7 @@ const project = [
   
   
   {
+    "id":3,
     "planet_name":"Earth",
     "mass":"5.97x10^24 Kg",
     "confirmed_moons":1,
@@ -38,6 +41,7 @@ const project = [
   
   
   {
+    "id":4,
     "planet_name":"Mars",
     "mass":"6.41x10^23 Kg",
     "confirmed_moons":2,
@@ -48,6 +52,7 @@ const project = [
   
   
   {
+    "id":5,
     "planet_name":"Jupiter",
     "mass":"1.89x10^27 Kg",
     "confirmed_moons":95,
@@ -58,6 +63,7 @@ const project = [
   
   
   {
+    "id":6,
     "planet_name":"Saturn",
     "mass":"5.68x10^26 Kg",
     "confirmed_moons":146,
@@ -67,6 +73,7 @@ const project = [
   },
   
   {
+    "id":7,
     "planet_name":"Uranus",
     "mass":"8.68x10^25 Kg",
     "confirmed_moons":27,
@@ -77,6 +84,7 @@ const project = [
   
   
   {
+    "id":8,
     "planet_name":"Neptune",
     "mass":"1.024x10^26 Kg",
     "confirmed_moons":14,
@@ -87,6 +95,7 @@ const project = [
 
 
   {
+    "id":9,
     "planet_name":"Sun",
     "mass":"1.989x10^30 Kg",
     "rotation_period":"27 days",
@@ -95,6 +104,7 @@ const project = [
   },
   
   {
+    "id":10,
     "planet_name":"Moon",
     "mass":"7.348x10^22 Kg",
     "rotation_period":"27.3 days",
